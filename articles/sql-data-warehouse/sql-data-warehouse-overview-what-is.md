@@ -82,11 +82,11 @@ Compute usage in SQL Data Warehouse is measured using SQL Data Warehouse Units (
 
 - You can understand the performance you will see at a DWU level before you change the size of you data warehouse.
 
-- The underlying hardware and software of your instance can change or move without effecting your workload performance
+- The underlying hardware and software of your instance can change or move without affecting your workload performance
 
 - We can make adjustments to the underlying architecture of the service without affecting the performance of your workload.
 
-- As we rapidly improve performance in SQL Data Warehouse, we can ensure we do so in a way the is scalable and evenly effects the system.
+- As we rapidly improve performance in SQL Data Warehouse, we can ensure we do so in a way that is scalable and evenly affects the system.
 
 ### Data Warehouse Units
 
